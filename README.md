@@ -17,7 +17,7 @@
 - Tools: Git / GitHub Actions
 
 ## Stats / Graph
-
+<!--
 <p>
   <img src="https://github-readme-stats-sigma-tawny.vercel.app/api?username=qursor-dev&show_icons=true&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="qursor-dev の GitHub 統計（コミット、スター、プルリクエストなど）" />
 </p>
@@ -25,7 +25,7 @@
 <p>
   <img src="https://github-readme-stats-sigma-tawny.vercel.app/api/top-langs/?username=qursor-dev&layout=compact&hide_border=true" alt="qursor-dev のリポジトリで使われている主要言語の割合グラフ" />
 </p>
-
+-->
 <p>
   <img src="https://streak-stats.demolab.com?user=qursor-dev&hide_border=true" alt="qursor-dev の連続コントリビューション日数と最長記録の統計" />
 </p>
